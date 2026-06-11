@@ -50,7 +50,7 @@ int main() {
 
 <div align="center">
   <a href="https://www.luogu.com.cn/user/225671">
-    <img src="https://luogu.vercel.app/api?id=225671&hide_title=true" height="200em">
+    <img src="https://api.jerryz.com.cn/practice?id=225671&hide_title=true" height="200em">
   </a>
 </div>
 
@@ -58,7 +58,7 @@ int main() {
 
 <div align="center">
   <a href="https://www.hltv.org/team/4608/natus-vincere">
-    <img src="navi.svg" width="400" height="60" alt="Natus Vincere">
+    <img src="https://raw.githubusercontent.com/AsatsukiSakura/AsatsukiSakura/main/navi.svg" width="400" height="60" alt="Natus Vincere">
   </a>
   <br>
 </div>
