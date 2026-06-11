@@ -49,11 +49,18 @@ int main() {
 <br>
 
 <div align="center">
-  <a href="https://navi.gg/">
-    <img src="navi.svg" width="200" height="60" alt="Natus Vincere">
+  <a href="https://www.luogu.com.cn/user/225671">
+    <img src="https://luogu.vercel.app/api?id=225671&hide_title=true" height="200em">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.hltv.org/team/4608/natus-vincere">
+    <img src="navi.svg" width="400" height="60" alt="Natus Vincere">
   </a>
   <br>
-  <sub>Born to Win</sub>
 </div>
 
 <br>
