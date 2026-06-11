@@ -32,10 +32,10 @@ int main() {
 ```
 
 <div align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="45"> 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="45"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="45"> 
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge" height="45"> 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" style="height: 32px;"> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" style="height: 32px;"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="height: 32px;"> 
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square" style="height: 32px;"> 
 </div>
 
 <br>
@@ -58,7 +58,7 @@ int main() {
 
 <div align="center">
   <a href="https://www.hltv.org/team/4608/natus-vincere">
-    <img src="https://raw.githubusercontent.com/AsatsukiSakura/AsatsukiSakura/main/navi.svg" width="400" height="60" alt="Natus Vincere">
+    <img src="https://raw.githubusercontent.com/AsatsukiSakura/AsatsukiSakura/main/navi.svg" width="440" height="66" alt="Natus Vincere">
   </a>
   <br>
 </div>
