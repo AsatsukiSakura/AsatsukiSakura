@@ -48,21 +48,9 @@ int main() {
 
 <br>
 
-### 关于我 / About me
-
--   算法竞赛业余选手 / Amateur competitive programmer
--   Vibe coding 享受者 / Vibe coding enjoyer
-
-<br>
-
 <div align="center">
   <a href="https://navi.gg/">
-    <svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
-      <rect width="200" height="60" rx="4" fill="#FFCC00"/>
-      <rect x="0" y="0" width="200" height="60" rx="4" fill="none" stroke="#000" stroke-width="2"/>
-      <text x="100" y="42" font-family="Arial Black, Impact, sans-serif" font-size="34" font-weight="900"
-            fill="#000" text-anchor="middle" letter-spacing="4">Natus Vincere</text>
-    </svg>
+    <img src="navi.svg" width="200" height="60" alt="Natus Vincere">
   </a>
   <br>
   <sub>Born to Win</sub>
