@@ -1,6 +1,17 @@
 <svg width="440" height="66" viewBox="0 0 440 66" xmlns="http://www.w3.org/2000/svg">
-  <rect width="400" height="66" rx="4" fill="#FFF424"/>
-  <rect x="0" y="0" width="400" height="60" rx="4" fill="none" stroke="#000" stroke-width="2"/>
-  <text x="220" y="46" font-family="'Segoe UI Black','Franklin Gothic Heavy','Arial Black',sans-serif" font-size="32" font-weight="900"
-        fill="#000" text-anchor="middle" letter-spacing="5">NATUS VINCERE</text>
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&amp;display=swap');
+      .navi-text {
+        font-family:'segoe ui', sans-serif;
+        font-size: 35px;
+        font-weight: 800;
+        fill: #000;
+        letter-spacing: 3.6px;
+      }
+    </style>
+  </defs>
+  
+  <rect width="440" height="66" rx="4" fill="#FFF424"/>
+  <text x="220" y="46" class="navi-text" text-anchor="middle">NATUS VINCERE</text>
 </svg>
