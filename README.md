@@ -22,7 +22,7 @@ signed main() is kinda weird bro
 */ 
 void solve(){
   string s="douyu.com/6657";
-  vector<string> v={"C++","Java","JavaScript","Vue.js"};
+  vector<string> v={"C++","Java","JavaScript","TypeScript","Vue.js"};
 }
 int main() {
   int t;
@@ -36,6 +36,7 @@ int main() {
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" style="height: 30px;"> 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" style="height: 30px;"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="height: 30px;"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" style="height: 30px;"> 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square" style="height: 30px;"> 
 </div>
 
