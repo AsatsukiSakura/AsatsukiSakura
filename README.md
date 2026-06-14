@@ -43,12 +43,12 @@ int main() {
   <a href="https://github.com/AsatsukiSakura">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats-indol-tau-16.vercel.app/api?username=AsatsukiSakura&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&cache_buster=1" />
+         src="https://github-readme-stats-indol-tau-16.vercel.app/api?username=AsatsukiSakura&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&cache_buster=0" />
   </a>
   <a href="https://github.com/AsatsukiSakura">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats-indol-tau-16.vercel.app/api/top-langs?username=AsatsukiSakura&show_icons=true&include_all_commits=true&count_private=false&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact&hide=css,html,php,scss&&cache_buster=1"
+         src="https://github-readme-stats-indol-tau-16.vercel.app/api/top-langs?username=AsatsukiSakura&show_icons=true&include_all_commits=true&count_private=false&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact&hide=css,html,php,scss&&cache_buster=2"
     />
   </a>
   <a href="https://github.com/AsatsukiSakura">
