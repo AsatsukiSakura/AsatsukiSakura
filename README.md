@@ -11,33 +11,12 @@
 
 <br>
 
-```cpp
-#include <bits/stdc++.h>
-using namespace std;
-using ll = long long;
-/*
-i will not use #define int long long
-unless i got Wrong Answer test 2/3 
-signed main() is kinda weird bro
-*/ 
-void solve(){
-  string s="douyu.com/6657";
-  vector<string> v={"C++","Java","JavaScript","TypeScript","Vue.js"};
-}
-int main() {
-  int t;
-  cin >> t;
-  while(t--)solve();
-  return 0;
-}
-```
-
 <div align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" style="height: 30px;"> 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" style="height: 30px;"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="height: 30px;"> 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" style="height: 30px;"> 
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square" style="height: 30px;"> 
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" style="height: 32px;">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="height: 32px;">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="height: 32px;">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="height: 32px;">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" style="height: 32px;">
 </div>
 
 <div align="center">
@@ -75,24 +54,5 @@ int main() {
     <img src="https://api.jerryz.com.cn/practice?id=225671&custom=true&dark_mode=true&name=AsatsukiSakura&color=Green&passed=0,36,74,94,63,26,13,2&unpassed=23&hide_title=true">
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <a href="https://osu.ppy.sh/u/33407560">
-    <img src="https://osu-sig.s23.moe/card?user=33407560&mode=std&animation=true">
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://www.hltv.org/team/4608/natus-vincere">
-    <img src="https://raw.githubusercontent.com/AsatsukiSakura/AsatsukiSakura/main/navi.svg" width="440" height="66" alt="Natus Vincere">
-  </a>
-  <br>
-</div>
-
-<br>
 
 
