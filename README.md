@@ -51,7 +51,7 @@
 
 <div align="center">
   <a href="https://www.luogu.com.cn/user/225671#practice">
-    <img src="https://api.jerryz.com.cn/practice?id=225671&custom=true&dark_mode=true&name=AsatsukiSakura&color=Green&passed=0,36,74,94,63,26,13,2&unpassed=23&hide_title=true">
+    <img src="https://api.jerryz.com.cn/practice?id=225671&custom=true&dark_mode=true&name=AsatsukiSakura&color=Green&passed=0,36,74,94,63,28,13,2&unpassed=23&hide_title=true">
   </a>
 </div>
 
