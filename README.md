@@ -34,7 +34,7 @@
   <a href="https://github.com/AsatsukiSakura">
     <img align="center"
          height="150em"
-         src="https://streak-stats.demolab.com/?user=AsatsukiSakura&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&&cache_buster=4" />
+         src="https://streak-stats.demolab.com/?user=AsatsukiSakura&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&&cache_buster=3" />
   </a>
 
 </div>
