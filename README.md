@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/AsatsukiSakura/">
-    <img src="https://images.weserv.nl/?url=a.ppy.sh/33407560&h=300&w=280&fit=cover&mask=circle&maxage=7d" width="280">
+    <img src="https://images.weserv.nl/?url=a.ppy.sh/33407560&h=300&w=280&fit=cover&mask=circle&maxage=7d" width="280&cache_buster=1">
   </a>
   <h3 style="line-height: 1.6">
     你好，这里是浅月！<br>
